@@ -3,6 +3,12 @@
 ## 🚀 Project Overview
 This **Airbnb Dashboard** provides a comprehensive analysis of booking data to offer critical business insights for decision-makers. The dashboard uses interactive visualizations to explore customer types, booking channels, and location-based data, enabling deeper understanding and strategic planning. By transforming raw data into actionable insights, this dashboard demonstrates strong data visualization and analytical capabilities.
 
+
+
+https://github.com/user-attachments/assets/307b7b85-a3af-4ecc-9f8c-3b35a915f2af
+
+
+
 ## 📊 Dashboard Features
 
 ### 1. **Customer Type Analysis** 👥
