@@ -11,24 +11,37 @@ https://github.com/user-attachments/assets/307b7b85-a3af-4ecc-9f8c-3b35a915f2af
 
 ## 📊 Dashboard Features
 
-### 1. **Customer Type Analysis** 👥
+- **Total Bookings**: 934
+- **Total Revenue**: $85.8K
+- **Average Ratings**: 3
+- **Average Lead Time**: 48.17 days
+- **Cancelled Bookings**: 15
+
+### **Monthly Airbnb Analysis**:
+- Heatmap showing daily booking trends across different months.
+
+### **Country Analysis**:
+- Map visualization highlighting Airbnb activity by country.
+
+
+### **Customer Type Analysis** 👥
 - **Pie Chart Visualization**:
   - **Transient-Party**: 45%
   - **Contract**: 28.4%
   - **Transient**: 26.7%
 
-### 2. **Users Analysis** 📈
+### **Users Analysis** 📈
 - **Treemap Visualization**:
   - **Online TA**: 803 users
   - **Groups**: 520 users
   - **Others**: 251 users
 
-### 3. **Type Analysis** 🏠
+### **Type Analysis** 🏠
 - **Bar Chart Visualization**:
   - **Prime Location**: 859 bookings
   - **Non-Prime Location**: 75 bookings
 
-### 4. **Summary Table** 📊
+### **Summary Table** 📊
 - Detailed table showcasing:
   - **Country Name**
   - **Market Segment**
